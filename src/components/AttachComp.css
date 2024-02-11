@@ -1,0 +1,20 @@
+/* .MuiTab-iconWrapper{
+  color: red;
+} */
+
+.secondary{
+  display: flex;
+  justify-content: space-between;
+}
+
+.MuiCard-root .hidden-button{
+  display: none;
+}
+
+.MuiCard-root:hover .hidden-button{
+  display: flex;
+}
+
+.input{
+  color: #fff;
+}
